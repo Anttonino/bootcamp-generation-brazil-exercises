@@ -3,10 +3,9 @@ import { Column, Entity, PrimaryGeneratedColumn, UpdateDateColumn } from "typeor
 
 @Entity({name: 'tb_postagens'})
 export class Postagem {
-    
     @PrimaryGeneratedColumn()
     id: number;
-
+    
     @IsNotEmpty ()
     @Column ({length: 100, nullable: false})
     titulo: string
