@@ -75,6 +75,89 @@ Este repositório é voltado aos alunos da Generation matriculados no bootcamp f
     </tr>
 </table>
 
+<h2><img src="https://cdn-icons-png.flaticon.com/512/299/299866.png" title="source: imgur.com" width="25px"/> Projeto Integrador</h2>
+
+O projeto integrador se trata do trabalho em grupo de conclusão do bootcamp da Generation Brasil. O projeto utiliza de base os [objetivos de desenvolvimento sustentável](https://brasil.un.org/pt-br/sdgs) (ODS) da [ONU](https://brasil.un.org/pt-br). Devemos criar uma aplicação MVP (Minimum Viable Product) utilizando a arquitetura MVC em uma Rede Social ou E-Commerce, ficando a critério do grupo a escolha.
+
+<table>
+<tr>
+    <td align="center">
+    <sup><b>Grupo 1</b></sup>
+    <br>
+      <a href="https://github.com/GrupoMotive"><img src="https://avatars.githubusercontent.com/u/115712857?s=200&v=4" width="100px">
+        <br>
+        <b>Grupo Motive</b>
+      <sub>
+      <br>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </sub>
+      </a>
+    </td>
+<td align="center">
+    <sup><b>Grupo 2</b></sup>
+    <br>
+      <a href="https://github.com/green-heart"><img src="https://avatars.githubusercontent.com/u/115719526?s=200&v=4" width="100px">
+        <br>
+        <b>Green Heart</b>
+      <sub>
+      <br>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </sub>
+      </a>
+    </td>
+    <td align="center">
+    <sup><b>Grupo 3</b></sup>
+    <br>
+      <a href="https://github.com/PROJETO3GENBR"><img src="https://avatars.githubusercontent.com/u/114969090?s=200&v=4" width="100px">
+        <br>
+        <b>Renova</b>
+      <sub>
+      <br>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </sub>
+      </a>
+          </td>
+        <td align="center">
+    <sup><b>Grupo 4</b></sup>
+    <br>
+      <a href="https://github.com/Women-Work"><img src="https://avatars.githubusercontent.com/u/115712108?s=200&v=4" width="100px">
+        <br>
+        <b>Women Work</b>
+      <sub>
+      <br>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </sub>    
+    </a>
+    </td> 
+    </td>
+        <td align="center">
+    <sup><b>Grupo 5</b></sup>
+    <br>
+      <a href="https://github.com/comuniorg"><img src="https://avatars.githubusercontent.com/u/115712311?s=200&v=4" width="100px">
+        <br>
+        <b>Comuni Orgânica</b>
+      <sub>
+      <br>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </sub>
+      </a>
+    </td> 
+   	<td align="center">
+    <sup><b>Grupo 6</b></sup>
+    <br>
+      <a href="https://github.com/Revolucao-Saude"><img src="https://avatars.githubusercontent.com/u/115712775?s=200&v=4" width="100px">
+        <br>
+        <b>Revolução Saúde</b>
+      <sub>
+      <br>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </sub>
+      </a>
+    </td> 
+</tr>
+</table>
+
+
 ## 👨‍🎓 Autor do Projeto
 
 <table>
