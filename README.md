@@ -38,19 +38,19 @@ Este repositório é voltado aos alunos da Generation matriculados no bootcamp f
 <table width="100%">
 	<tr>
         <td width="70px"><img src="https://cdn-icons-png.flaticon.com/512/7984/7984225.png" title="source: imgur.com" /></td>
-        <td width="400px"><a href="https://github.com/Anttonino/bootcamp-generation/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Cookbook%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/README.md">Cookbook - Lógica de Programação</a></td>
+        <td width="400px"><a target="_blank" href="https://github.com/Anttonino/bootcamp-generation/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Cookbook%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/README.md">Cookbook - Lógica de Programação</a></td>
   </tr>
   <tr>
         <td><img src="https://i.imgur.com/y9wkmaF.png" title="source: imgur.com"/></td>
-        <td><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Portugol">Portugol</a></td>
+        <td><a target="_blank" href="https://github.com/Anttonino/bootcamp-generation/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Portugol">Portugol</a></td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com"/></td>
-        <td><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Javascript">Javascript</a></td>
+        <td><a target="_blank" href="https://github.com/Anttonino/bootcamp-generation/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Javascript">Javascript</a></td>
     </tr>
     <tr>
         <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="source: imgur.com" /></td>
-        <td><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Typescript">Typescript</a></td>
+        <td><a target="_blank" href="https://github.com/Anttonino/bootcamp-generation/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Typescript">Typescript</a></td>
     </tr>
 </table>
 
@@ -59,19 +59,19 @@ Este repositório é voltado aos alunos da Generation matriculados no bootcamp f
 <table width="100%">
 	<tr>
         <td width="70px"><img src="https://cdn-icons-png.flaticon.com/512/7984/7984225.png" title="source: imgur.com" /></td>
-        <td width="400px"><a href="https://github.com/Anttonino/bootcamp-generation/blob/main/Desenvolvimento%20Back-end/Back-End%20Cookbook/README.md">Cookbook - Desenvolvimento Back-End</a></td>
+        <td width="400px"><a target="_blank" href="https://github.com/Anttonino/bootcamp-generation/blob/main/Desenvolvimento%20Back-end/Back-End%20Cookbook/README.md">Cookbook - Desenvolvimento Back-End</a></td>
     </tr>
     <tr>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" title="source: imgur.com"/></td>
-        <td><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/Desenvolvimento%20Back-end/Express">Express</a></td>
+        <td><a target="_blank" href="https://github.com/Anttonino/bootcamp-generation/tree/main/Desenvolvimento%20Back-end/Express">Express</a></td>
     </tr>
         <tr>
         <td><img src="https://cdn-icons-png.flaticon.com/512/4118/4118402.png" title="source: imgur.com"/></td>
-        <td><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/Desenvolvimento%20Back-end/Blog%20Pessoal">Projeto - Blog Pessoal</a></td>
+        <td><a target="_blank" href="https://github.com/Anttonino/bootcamp-generation/tree/main/Desenvolvimento%20Back-end/Blog%20Pessoal">Projeto - Blog Pessoal</a></td>
     </tr>
     <tr>
         <td><img src="https://cdn-icons-png.flaticon.com/512/5804/5804857.png" title="source: imgur.com"/></td>
-        <td><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/Desenvolvimento%20Back-end/Loja%20de%20games">Projeto - Game Store</a></td>
+        <td><a target="_blank" href="https://github.com/Anttonino/bootcamp-generation/tree/main/Desenvolvimento%20Back-end/Loja%20de%20games">Projeto - Game Store</a></td>
     </tr>
 </table>
 
@@ -84,7 +84,7 @@ O projeto integrador se trata do trabalho em grupo de conclusão do bootcamp da 
     <td align="center">
     <sup><b>Grupo 1</b></sup>
     <br>
-      <a href="https://github.com/GrupoMotive"><img src="https://avatars.githubusercontent.com/u/115712857?s=200&v=4" width="100px">
+      <a target="_blank" href="https://github.com/GrupoMotive"><img src="https://avatars.githubusercontent.com/u/115712857?s=200&v=4" width="100px">
         <br>
         <b>Grupo Motive</b>
       <sub>
@@ -96,7 +96,7 @@ O projeto integrador se trata do trabalho em grupo de conclusão do bootcamp da 
 <td align="center">
     <sup><b>Grupo 2</b></sup>
     <br>
-      <a href="https://github.com/green-heart"><img src="https://avatars.githubusercontent.com/u/115719526?s=200&v=4" width="100px">
+      <a target="_blank" href="https://github.com/green-heart"><img src="https://avatars.githubusercontent.com/u/115719526?s=200&v=4" width="100px">
         <br>
         <b>Green Heart</b>
       <sub>
@@ -108,7 +108,7 @@ O projeto integrador se trata do trabalho em grupo de conclusão do bootcamp da 
     <td align="center">
     <sup><b>Grupo 3</b></sup>
     <br>
-      <a href="https://github.com/PROJETO3GENBR"><img src="https://avatars.githubusercontent.com/u/114969090?s=200&v=4" width="100px">
+      <a target="_blank" href="https://github.com/PROJETO3GENBR"><img src="https://avatars.githubusercontent.com/u/114969090?s=200&v=4" width="100px">
         <br>
         <b>Renova</b>
       <sub>
@@ -120,7 +120,7 @@ O projeto integrador se trata do trabalho em grupo de conclusão do bootcamp da 
         <td align="center">
     <sup><b>Grupo 4</b></sup>
     <br>
-      <a href="https://github.com/Women-Work"><img src="https://avatars.githubusercontent.com/u/115712108?s=200&v=4" width="100px">
+      <a target="_blank" href="https://github.com/Women-Work"><img src="https://avatars.githubusercontent.com/u/115712108?s=200&v=4" width="100px">
         <br>
         <b>Women Work</b>
       <sub>
@@ -133,7 +133,7 @@ O projeto integrador se trata do trabalho em grupo de conclusão do bootcamp da 
         <td align="center">
     <sup><b>Grupo 5</b></sup>
     <br>
-      <a href="https://github.com/comuniorg"><img src="https://avatars.githubusercontent.com/u/115712311?s=200&v=4" width="100px">
+      <a target="_blank" href="https://github.com/comuniorg"><img src="https://avatars.githubusercontent.com/u/115712311?s=200&v=4" width="100px">
         <br>
         <b>Comuni Orgânica</b>
       <sub>
@@ -145,7 +145,7 @@ O projeto integrador se trata do trabalho em grupo de conclusão do bootcamp da 
    	<td align="center">
     <sup><b>Grupo 6</b></sup>
     <br>
-      <a href="https://github.com/Revolucao-Saude"><img src="https://avatars.githubusercontent.com/u/115712775?s=200&v=4" width="100px">
+      <a target="_blank" href="https://github.com/Revolucao-Saude"><img src="https://avatars.githubusercontent.com/u/115712775?s=200&v=4" width="100px">
         <br>
         <b>Revolução Saúde</b>
       <sub>
@@ -163,7 +163,7 @@ O projeto integrador se trata do trabalho em grupo de conclusão do bootcamp da 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Anttonino"><img src="https://avatars.githubusercontent.com/u/99145534?v=4" width="140px">
+      <a target="_blank" href="https://github.com/Anttonino"><img src="https://avatars.githubusercontent.com/u/99145534?v=4" width="140px">
         <br>
         <b>Victor Antonino</b>
       </a>
