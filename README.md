@@ -37,9 +37,13 @@ Este repositório é voltado aos alunos da Generation matriculados no bootcamp f
 
 <table width="100%">
 	<tr>
-        <td width="10%"><img src="https://i.imgur.com/y9wkmaF.png" title="source: imgur.com" /></td>
-        <td width="90%"><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Portugol">Portugol</a></td>
+        <td width="70px"><img src="https://cdn-icons-png.flaticon.com/512/7984/7984225.png" title="source: imgur.com" /></td>
+        <td width="400px"><a href="https://github.com/Anttonino/bootcamp-generation/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Cookbook%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/README.md">Cookbook - Lógica de Programação</a></td>
   </tr>
+  <tr>
+        <td><img src="https://i.imgur.com/y9wkmaF.png" title="source: imgur.com"/></td>
+        <td><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Portugol">Portugol</a></td>
+    </tr>
     <tr>
         <td><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com"/></td>
         <td><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Javascript">Javascript</a></td>
@@ -54,24 +58,20 @@ Este repositório é voltado aos alunos da Generation matriculados no bootcamp f
 
 <table width="100%">
 	<tr>
-        <td width="400px"><img src="https://cdn-icons-png.flaticon.com/512/3039/3039520.png" title="source: imgur.com" /></td>
-        <td width="90%"><a href="00_ambiente/README.md">Preparação do Ambiente</a></td>
+        <td width="70px"><img src="https://cdn-icons-png.flaticon.com/512/7984/7984225.png" title="source: imgur.com" /></td>
+        <td width="400px"><a href="https://github.com/Anttonino/bootcamp-generation/blob/main/Desenvolvimento%20Back-end/Back-End%20Cookbook/README.md">Cookbook - Desenvolvimento Back-End</a></td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/cDPH4tl.png" title="source: imgur.com"/></td>
-        <td><a href="01_http/01.md">Introdução ao Protocolo HTTP</a></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" title="source: imgur.com"/></td>
+        <td><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/Desenvolvimento%20Back-end/Express">Express</a></td>
+    </tr>
+        <tr>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/4118/4118402.png" title="source: imgur.com"/></td>
+        <td><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/Desenvolvimento%20Back-end/Blog%20Pessoal">Projeto - Blog Pessoal</a></td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/38hZn7Z.png" title="source: imgur.com" /></td>
-        <td><a href="02_mysql/README.md">Banco de dados com MySQL</a></td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com"/></td>
-        <td><a href="03_nest/README.md">NestJS</a></td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/fu9QxlT.png" title="source: imgur.com"/></td>
-        <td><a href="04_fluxo_git/README.md">Fluxo de trabalho Git</a></td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/5804/5804857.png" title="source: imgur.com"/></td>
+        <td><a href="https://github.com/Anttonino/bootcamp-generation/tree/main/Desenvolvimento%20Back-end/Loja%20de%20games">Projeto - Game Store</a></td>
     </tr>
 </table>
 
