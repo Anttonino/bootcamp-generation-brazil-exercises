@@ -1,7 +1,4 @@
-<div align="center">
-    <img src="https://i.imgur.com/icgjsRQ.png" title="source: imgur.com" width="50%"/>
-</div>
-<h1><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="40px"/>Bootcamp - JavaScript Full Stack </h1>
+<h1><img src="https://cdn-icons-png.flaticon.com/512/6213/6213731.png" title="source: imgur.com" width="25px"/> Desenvolvimento Back-End</h1>
 
 <h2>Conteúdos</h2>
 
