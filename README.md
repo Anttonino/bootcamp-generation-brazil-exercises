@@ -86,7 +86,7 @@ O projeto integrador se trata do trabalho em grupo de conclusão do bootcamp da 
     <br>
       <a target="_blank" href="https://github.com/GrupoMotive"><img src="https://avatars.githubusercontent.com/u/115712857?s=200&v=4" width="100px">
         <br>
-        <b>Grupo Motive</b>
+        <b>Motive</b>
       <sub>
       <br>
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -135,7 +135,7 @@ O projeto integrador se trata do trabalho em grupo de conclusão do bootcamp da 
     <br>
       <a target="_blank" href="https://github.com/comuniorg"><img src="https://avatars.githubusercontent.com/u/115712311?s=200&v=4" width="100px">
         <br>
-        <b>Comuni Orgânica</b>
+        <b>C. Orgânica</b>
       <sub>
       <br>
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
