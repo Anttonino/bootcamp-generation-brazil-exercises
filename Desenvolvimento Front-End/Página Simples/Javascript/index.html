@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+  <link rel="stylesheet" href="style.css">
+  <title>Site</title>
+</head>
+<body>
+  <main>
+    <!-- HEADER -->
+    <header>
+      <div class="logo">
+        LOGO
+      </div>
+      <div class="menu">
+        <nav class="nav-list">
+            <a href="#home">Home</a>
+            <a href="#projects">Projetos</a>
+            <a href="#contact">Contato</a>
+        </nav>
+      </div>
+    </header>  
+    
+    <!-- HOME -->
+    <section id="home">
+      <div class="home-info">
+        <h2>Olá, sou Victor</h2>
+        <span class="home-position">Programador FullStack</span>
+        <span class="home-resume">
+          Estudante de ciência da computação, 
+          participando do bootcamp full-stack javascript da Generation Brasil.
+          Trabalhando com as tecnologias Typescript, Node, Nest e React.
+        </span>
+
+        <button>
+          <a href="#contact">Contate-me</a>
+        </button>
+      </div>
+      <div class="home-img">
+        <img src="assets/profile.jpg" alt="Foto de perfil">
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+
+    <section id="projects">
+      <h2>Projetos</h2>
+      <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="project-img">
+              <a href="https://github.com/Anttonino/integrative-project" target="_blank">
+                <img src="assets/Green heart.png" class="green_heart">
+              </a>
+            </div>
+            <div class="project-info">
+              <h2>Green Heart</h2>
+              <p>Projeto integrador da Generation Brasil sobre o objetivo 13 de desenvolvimento sustentável da ONU</p>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="project-img">
+              <a href="https://github.com/Anttonino/bootcamp-generation" target="_blank">
+                <img src="assets/Programadores Cariocas.png" class="bootcamp">
+              </a>
+            </div>
+            <div class="project-info">
+              <h2>Projeto Programadores Cariocas</h2>
+              <p>Repositório criado para armazenar todos os exercícios do bootcamp full stack (javascript) da Generation Brasil</p>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="project-img">
+              <a href="https://github.com/Anttonino/registration-system" target="_blank">
+                <img src="assets/trabalho acadêmico.png" class="trabalho_academico">
+              </a>  
+            </div>
+            <div class="project-info">
+              <h2>Sistema de cadastros</h2>
+              <p>Trabalho acadêmico da matéria programação estruturada do Centro Universitário Unicarioca</p>
+            </div>
+          </div>
+        </div>
+      
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+
+  <section id="contact">
+    <h2>Contato</h2>
+    <form>
+      <input type="text" placeholder="Digite seu nome" />
+      <input type="email" placeholder="Digite seu e-mail" />
+      <textarea cols="30" rows="10" placeholder="Digite sua mensagem"></textarea>
+      <button>Enviar</button>
+    </form>
+  </section>
+
+  <footer>
+    copyright © 2022 Victor Antonino. Todos os direitos reservados
+  </footer>
+  </main>  
+
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
